@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Deployee_Scheduling", "D:\Deployee_Scheduling20240523\Deployee_Scheduling\", "{9F04E8F2-DA19-4941-AEBA-F8A2EC0E4C7E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59839"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Deployee_Scheduling20240523\Deployee_Scheduling\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59839\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59839"
+		Release.AspNetCompiler.PhysicalPath = "D:\Deployee_Scheduling20240523\Deployee_Scheduling\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59839\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59839"
+		SlnRelativePath = "D:\Deployee_Scheduling20240523\Deployee_Scheduling\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F04E8F2-DA19-4941-AEBA-F8A2EC0E4C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F04E8F2-DA19-4941-AEBA-F8A2EC0E4C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2817B96-3AE8-4907-B016-AFD0E52EE36E}
+	EndGlobalSection
+EndGlobal
