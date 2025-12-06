@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+.azuredatastudio/
+.vscode/
+node_modules/
+dist/
